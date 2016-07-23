@@ -42,19 +42,19 @@ canvas {
 }
 
 .panel {
-    font-family: 'Source Sans Pro';
-    font-size: 1.3em;
-    position: absolute;
-    border-radius: 10px;
-    width: 200px;
-    height: 450px;
-    background: #eee;
-    top: 50%;
-    left: 50%;
-    z-index: 100;
-    text-align: center;
-    margin: -250px 0 0 -120px;
-    padding: 20px;
+  font-family: 'Source Sans Pro';
+  font-size: 1.3em;
+  position: absolute;
+  border-radius: 10px;
+  width: 200px;
+  height: 450px;
+  background: #eee;
+  top: 50%;
+  left: 50%;
+  z-index: 100;
+  text-align: center;
+  margin: -250px 0 0 -120px;
+  padding: 20px;
 }
 
 .panel.hide {
@@ -62,10 +62,10 @@ canvas {
 }
 
 .avatar {
-    height: 180px;
-    width: 180px;
-    vertical-align: middle;
-    border-radius: 6px;
+  height: 180px;
+  width: 180px;
+  vertical-align: middle;
+  border-radius: 6px;
 }
 
 .panel h1 {
