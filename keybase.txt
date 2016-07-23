@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/luck
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lucko.me
+  * I am luck (https://keybase.io/luck) on keybase.
+  * I have a public key with fingerprint 45D7 54AD 2AF9 72FF 7EDB  FBEF 5A4D CBF8 803D 4A07
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01016da84695e25209257c8cece9ae6fdfca886abb6c9fb736994232016ab9dd02ba0a",
+            "fingerprint": "45d754ad2af972ff7edbfbef5a4dcbf8803d4a07",
+            "host": "keybase.io",
+            "key_id": "5a4dcbf8803d4a07",
+            "kid": "01016da84695e25209257c8cece9ae6fdfca886abb6c9fb736994232016ab9dd02ba0a",
+            "uid": "a7a45ea923c6229b341e2d21ff8fde19",
+            "username": "luck"
+        },
+        "service": {
+            "hostname": "lucko.me",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1469296568,
+    "expire_in": 157680000,
+    "prev": "6982b6dd3b3e6f450c385dd1ed07afac2d9e2a261ad2e501f5586559b7b479a8",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIgAnicrVJLSFVBGL7XzHyGWDeSCulgUHKxc+Y851rQgyAraJFRWXSbOTOjR2/3
+XO851wdquUlzcW2RUFGL2ojoolLrZkb0Eg0DF0IFaURUIj0WLcJFZXOkoEXLZjPz
+//N933z/P/+TvCW+bP9kMhCYelvW7p94eC7hO3T++p1mAdukSQg1C7V0caMRQh03
+XGsRISSIkihpBBmKBlUKVCBCoOqmYVKTQkQ1RpiJDENDGGsmZFiXNQgVIAPOQhgS
+IgKMRCQEBWZFq2g8FreiLpdVVKKrCiIAMagDxnRKMMOUqUghJmaGIcpEQaLOidW2
+4zG4OYwcWmrZPMeD8KK9f+D/s+/EohzSkaJSBIFsagBALCsSBQRIjBmMUAl6QIfG
+o+gk5ehIwqwVWoMCz9RbJvWa6lXx161dyo9BIRa3Xdu0Izxb7boxJ+Sx3KaYB2ug
+OPxbIIytKOH944x6GncsOyqEJI40XctTlHiRAGqqZgQF2hiz4jRseQhV1wyRL+8d
+Ws8lNWgArBEiY5m3QFFFUzZUQiRKRB0xZAICKUBAk/jHUFWUmKoamqpCrGNFh8gQ
+vJLqorYQgtwmquKSjlUVRW4iToXWRw+Opfv82b6MpWneXPmys/L/TBvOWfY9u+Vz
+4cXMgp3Ox70fSg7nJo8OjQzCohXnHjjjRyoCira1fLzpRE7GwvaiiU+hxwXVZeNs
+4/O2irPTZ170tRTMrb0WWCjavX7nN2fHdKoxcjpZOdlz6um+XPPyy1ddeacvjW1I
+Ds0X7h8tI70/11j+1ZGST+sHRKOrpqc0/WqzmDVw5UvlyPIDp7qGxoeXBYp7X9OO
+zuFbObOBHwn9w8yX7o73mxv2z6b6ndTt/rqDT3x7d21ZVWW2Vo7enQim9ij3p+17
+vf3wZvvXd+2b7h54M5de4xbPs81dr4fzR2bGpjoH05Kxlu42/7rzqZDceePZtuMn
+tJH6lVdoeXekuKPvQuYv+P49Sg==
+=Pw/D
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/luck
+
+==================================================================
+
