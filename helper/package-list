@@ -1,6 +1,15 @@
 me.lucko.helper
+me.lucko.helper.gson
+me.lucko.helper.hologram
 me.lucko.helper.item
 me.lucko.helper.menu
+me.lucko.helper.menu.paginated
 me.lucko.helper.menu.scheme
+me.lucko.helper.metadata
+me.lucko.helper.network
 me.lucko.helper.plugin
+me.lucko.helper.plugin.ap
+me.lucko.helper.scoreboard
+me.lucko.helper.serialize
+me.lucko.helper.terminable
 me.lucko.helper.utils
