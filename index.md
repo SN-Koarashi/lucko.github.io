@@ -4,7 +4,7 @@ This is just a small placeholder site, linking to various other sites hosted on 
 
 ## Me 😎
 
-I'm Luck, you can find me on:
+I'm Luck, sometimes I go by lucko instead. You can find me on:
 
 * [GitHub](https://github.com/lucko)
 * [Patreon](https://patreon.com/luckdev)
@@ -18,10 +18,10 @@ I'm Luck, you can find me on:
 
 This domain hosts a number of other sites.
 
-* Jenkins (continuous integration & downloads) - https://ci.lucko.me/
-* Nexus (maven repository) - https://nexus.lucko.me/
-* Paste (pastebin) - https://paste.lucko.me/
-* Bytebin (raw data pastebin) - https://bytebin.lucko.me/
+* Jenkins (continuous integration & downloads) - [ci.lucko.me](https://ci.lucko.me/)
+* Nexus (maven repository) - [nexus.lucko.me](https://nexus.lucko.me/)
+* Paste (pastebin) - [paste.lucko.me](https://paste.lucko.me/)
+* Bytebin (raw data pastebin) - [bytebin.lucko.me](https://bytebin.lucko.me/)
 
 ## Projects 🚀
 
