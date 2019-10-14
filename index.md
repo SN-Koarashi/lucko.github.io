@@ -1,4 +1,4 @@
-Hello 👋
+# Hello 👋
 
 This is just a small placeholder site, linking to various other sites hosted on this domain, and some of my other things available online.
 
