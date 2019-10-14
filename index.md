@@ -1,8 +1,8 @@
-Hello :wave:
+Hello 👋
 
 This is just a small placeholder site, linking to various other sites hosted on this domain, and some of my other things available online.
 
-## Me :sunglasses:
+## Me 😎
 
 I'm Luck, you can find me on:
 
@@ -14,7 +14,7 @@ I'm Luck, you can find me on:
 * [GitLab](https://gitlab.com/lucko)
 * [SpigotMC](https://www.spigotmc.org/members/luck.100356/)
 
-## Sites :computer:
+## Sites 💻
 
 This domain hosts a number of other sites.
 
@@ -23,7 +23,7 @@ This domain hosts a number of other sites.
 * Paste (pastebin) - https://paste.lucko.me/
 * Bytebin (raw data pastebin) - https://bytebin.lucko.me/
 
-## Projects :rocket:
+## Projects 🚀
 
 * [LuckPerms](https://luckperms.net/) (Minecraft permission plugin)
 * [spark](https://sparkprofiler.github.io/) (profiler & performance monitoring)
